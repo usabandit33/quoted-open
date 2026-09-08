@@ -1,2 +1,7 @@
-# quoted-open
-Quoted Open: Houston lockout checklist. Ask for a total before they start. Call a shop that publishes its own phone. Customer never pays the directory.
+# Quoted Open
+
+Houston lockout checklist. Ask for a quoted total before work starts. Call a shop that publishes its own phone.
+
+Live: https://usabandit33.github.io/quoted-open/
+
+Customer never pays this directory.

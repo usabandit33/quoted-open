@@ -9,9 +9,10 @@ From: kaelnventures@gmail.com
 Sent to Trifecta, Houston Safe and Lock, AAA, Howard, Texan.
 
 ## 2026-09-10
-Texan (Info@texanlocksmith.com) bounced. Removed from houston.html.
-Replacement: Golden Locksmith — workorders@golden-locksmith-tx.com — T1 sent.
+Texan bounced. Golden T1.
 
 ## 2026-09-11
-Phone-led T2 (Day 3) to Trifecta, Houston Safe and Lock, AAA, Howard.
-Golden T2 not due until ~09-13/14.
+Phone-led T2 to Trifecta, Houston Safe and Lock, AAA, Howard.
+
+## 2026-09-13
+Golden Locksmith T2 sent (workorders@golden-locksmith-tx.com / 832-786-3901).
